@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\androidproject\\Example\\RadioGroupFragment\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "D:\\androidproject\\Example\\RadioGroupFragment\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragment\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragment\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]

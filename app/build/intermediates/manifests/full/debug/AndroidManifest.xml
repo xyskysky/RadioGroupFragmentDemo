@@ -26,9 +26,11 @@
         </activity>
         <activity android:name="com.example.jwn.radiogroupfragment.MainActivity" >
         </activity>
-        <activity android:name="com.example.jwn.radiogroupfragment.activity.OkHttpActivity" >
+        <activity android:name="com.example.jwn.radiogroupfragment.okhttp.activity.OkHttpActivity" >
         </activity>
-        <activity android:name="com.example.jwn.radiogroupfragment.activity.OKHttpListActivity" >
+        <activity android:name="com.example.jwn.radiogroupfragment.okhttp.activity.OKHttpListActivity" >
+        </activity>
+        <activity android:name="com.example.jwn.radiogroupfragment.json.activity.NativeJsonPraseActivity" >
         </activity>
     </application>
 

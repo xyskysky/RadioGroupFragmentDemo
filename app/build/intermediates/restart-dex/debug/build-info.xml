@@ -5,32 +5,39 @@
     density="mdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="31484069319208"
-    token="-4455483303120773937"
-    verifier="FULL_BUILD_REQUESTED" >
+    timestamp="2958744907677"
+    token="8101726742734041288"
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="170" />
+        duration="1244" />
     <task
         name="instant-run-dex"
-        duration="0" />
+        duration="132" />
     <task
         name="instant-run-transform"
-        duration="28" />
+        duration="145" />
     <task
         name="verifier"
-        duration="4" />
+        duration="7" />
 
     <artifact
-        location="D:\androidproject\Example\RadioGroupFragment\app\build\outputs\apk\app-debug.apk"
-        type="MAIN" />
+        location="E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
 
     <build
-        timestamp="31484069319208"
+        timestamp="2813527088140"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="D:\androidproject\Example\RadioGroupFragment\app\build\outputs\apk\app-debug.apk"
+            location="E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="7889737647420"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
 

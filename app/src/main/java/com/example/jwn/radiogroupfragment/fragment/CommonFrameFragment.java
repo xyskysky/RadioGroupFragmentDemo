@@ -7,9 +7,10 @@ import android.widget.AdapterView;
 import android.widget.ListView;
 
 import com.example.jwn.radiogroupfragment.R;
-import com.example.jwn.radiogroupfragment.activity.OkHttpActivity;
-import com.example.jwn.radiogroupfragment.adapter.CommonFrameFragmentAdapter;
-import com.example.jwn.radiogroupfragment.base.BaseFragment;
+import com.example.jwn.radiogroupfragment.json.activity.NativeJsonPraseActivity;
+import com.example.jwn.radiogroupfragment.okhttp.activity.OkHttpActivity;
+import com.example.jwn.radiogroupfragment.okhttp.adapter.CommonFrameFragmentAdapter;
+import com.example.jwn.radiogroupfragment.okhttp.base.BaseFragment;
 
 /**
  * Created by Administrator on 2017-03-23.
@@ -31,6 +32,11 @@ public class CommonFrameFragment extends BaseFragment
 
                 startActivity(intent);
             }
+            else if ("nativeJsonPrase".equals(data))
+            {
+                Intent intent=new Intent(mContext, NativeJsonPraseActivity.class);
+                startActivity(intent);
+            }
         }
     };
     private CommonFrameFragmentAdapter adapter;
@@ -49,7 +55,7 @@ public class CommonFrameFragment extends BaseFragment
     protected void initData()
     {
         super.initData();
-        datas = new String[]{"OKHttp", "xUtils3","Retrofit2","Fresco","Glide","greenDao","RxJava","volley","Gson","FastJson","picasso","evenBus","jcvideoplayer","pulltorefresh","Expandablelistview","UniversalVideoView","....."};
+        datas = new String[]{"OKHttp","nativeJsonPrase", "Gson","FastJson","xUtils3","Retrofit2","Fresco","Glide","greenDao","RxJava","volley","picasso","evenBus","jcvideoplayer","pulltorefresh","Expandablelistview","UniversalVideoView","....."};
         adapter = new CommonFrameFragmentAdapter(mContext,datas);
         lv_data.setAdapter(adapter);
 

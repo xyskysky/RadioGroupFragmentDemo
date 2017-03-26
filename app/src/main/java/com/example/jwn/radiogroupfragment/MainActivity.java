@@ -8,7 +8,7 @@ import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
 import android.widget.RadioGroup;
 
-import com.example.jwn.radiogroupfragment.base.BaseFragment;
+import com.example.jwn.radiogroupfragment.okhttp.base.BaseFragment;
 import com.example.jwn.radiogroupfragment.fragment.CommonFrameFragment;
 import com.example.jwn.radiogroupfragment.fragment.CustomFragment;
 import com.example.jwn.radiogroupfragment.fragment.OtherFragment;

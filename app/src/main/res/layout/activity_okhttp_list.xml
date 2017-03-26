@@ -5,7 +5,7 @@
     android:id="@+id/activity_okhttp_list"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.jwn.radiogroupfragment.activity.OKHttpListActivity">
+    tools:context=".okhttp.activity.OKHttpListActivity">
 
     <ListView
         android:id="@+id/lv_list"

@@ -1,23 +1,15 @@
 [
     {
-        "merged": "D:\\androidproject\\Example\\RadioGroupFragment\\sample-okhttp\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
-        "source": "D:\\androidproject\\Example\\RadioGroupFragment\\sample-okhttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\switch_thumb_material_dark.xml"
-    },
-    {
-        "merged": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragment\\sample-okhttp\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
-        "source": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragment\\sample-okhttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_secondary_text_material_dark.xml"
-    },
-    {
-        "merged": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragment\\sample-okhttp\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
-        "source": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragment\\sample-okhttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_primary_text_material_light.xml"
+        "merged": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\sample-okhttp\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\sample-okhttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_search_url_text.xml"
     },
     {
         "merged": "D:\\androidproject\\Example\\RadioGroupFragment\\sample-okhttp\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
         "source": "D:\\androidproject\\Example\\RadioGroupFragment\\sample-okhttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\switch_thumb_material_light.xml"
     },
     {
-        "merged": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragment\\sample-okhttp\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
-        "source": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragment\\sample-okhttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\switch_thumb_material_light.xml"
+        "merged": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\sample-okhttp\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\sample-okhttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
         "merged": "D:\\androidproject\\Example\\RadioGroupFragment\\sample-okhttp\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
@@ -26,10 +18,6 @@
     {
         "merged": "D:\\androidproject\\Example\\RadioGroupFragment\\sample-okhttp\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
         "source": "D:\\androidproject\\Example\\RadioGroupFragment\\sample-okhttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_secondary_text_material_dark.xml"
-    },
-    {
-        "merged": "D:\\androidproject\\Example\\RadioGroupFragment\\sample-okhttp\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
-        "source": "D:\\androidproject\\Example\\RadioGroupFragment\\sample-okhttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
         "merged": "D:\\androidproject\\Example\\RadioGroupFragment\\sample-okhttp\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
@@ -48,6 +36,54 @@
         "source": "D:\\androidproject\\Example\\RadioGroupFragment\\sample-okhttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_search_url_text.xml"
     },
     {
+        "merged": "D:\\androidproject\\Example\\RadioGroupFragment\\sample-okhttp\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "D:\\androidproject\\Example\\RadioGroupFragment\\sample-okhttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\sample-okhttp\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\sample-okhttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragment\\sample-okhttp\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragment\\sample-okhttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\androidproject\\Example\\RadioGroupFragment\\sample-okhttp\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "D:\\androidproject\\Example\\RadioGroupFragment\\sample-okhttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragment\\sample-okhttp\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragment\\sample-okhttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\sample-okhttp\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\sample-okhttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragment\\sample-okhttp\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragment\\sample-okhttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragment\\sample-okhttp\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragment\\sample-okhttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\sample-okhttp\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\sample-okhttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\androidproject\\Example\\RadioGroupFragment\\sample-okhttp\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "D:\\androidproject\\Example\\RadioGroupFragment\\sample-okhttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\sample-okhttp\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\sample-okhttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\sample-okhttp\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\sample-okhttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
         "merged": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragment\\sample-okhttp\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
         "source": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragment\\sample-okhttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
@@ -56,16 +92,16 @@
         "source": "D:\\androidproject\\Example\\RadioGroupFragment\\sample-okhttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
-        "merged": "D:\\androidproject\\Example\\RadioGroupFragment\\sample-okhttp\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
-        "source": "D:\\androidproject\\Example\\RadioGroupFragment\\sample-okhttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_primary_text_material_dark.xml"
+        "merged": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\sample-okhttp\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\sample-okhttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     },
     {
         "merged": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragment\\sample-okhttp\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
         "source": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragment\\sample-okhttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
-        "merged": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragment\\sample-okhttp\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
-        "source": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragment\\sample-okhttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\switch_thumb_material_dark.xml"
+        "merged": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\sample-okhttp\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\sample-okhttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
         "merged": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragment\\sample-okhttp\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",

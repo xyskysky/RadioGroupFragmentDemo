@@ -7,6 +7,8 @@ import android.widget.AdapterView;
 import android.widget.ListView;
 
 import com.example.jwn.radiogroupfragment.R;
+import com.example.jwn.radiogroupfragment.json.activity.FastJsonActivity;
+import com.example.jwn.radiogroupfragment.json.activity.GsonActivity;
 import com.example.jwn.radiogroupfragment.json.activity.NativeJsonPraseActivity;
 import com.example.jwn.radiogroupfragment.okhttp.activity.OkHttpActivity;
 import com.example.jwn.radiogroupfragment.okhttp.adapter.CommonFrameFragmentAdapter;
@@ -35,6 +37,16 @@ public class CommonFrameFragment extends BaseFragment
             else if ("nativeJsonPrase".equals(data))
             {
                 Intent intent=new Intent(mContext, NativeJsonPraseActivity.class);
+                startActivity(intent);
+            }
+            else if ("Gson".equals(data))
+            {
+                Intent intent=new Intent(mContext, GsonActivity.class);
+                startActivity(intent);
+            }
+            else  if ("FastJson".equals(data))
+            {
+                Intent intent=new Intent(mContext, FastJsonActivity.class);
                 startActivity(intent);
             }
         }

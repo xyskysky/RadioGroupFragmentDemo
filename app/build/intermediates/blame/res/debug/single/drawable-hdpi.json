@@ -1,42 +1,42 @@
 [
     {
-        "merged": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_video.png",
-        "source": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_video.png"
+        "merged": "D:\\androidproject\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\video_default.png",
+        "source": "D:\\androidproject\\Example\\RadioGroupFragmentDemo\\app\\src\\main\\res\\drawable-hdpi\\video_default.png"
     },
     {
-        "merged": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_netvideo.png",
-        "source": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_netvideo.png"
+        "merged": "D:\\androidproject\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_video.png",
+        "source": "D:\\androidproject\\Example\\RadioGroupFragmentDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_video.png"
     },
     {
-        "merged": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\video_default.png",
-        "source": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\app\\src\\main\\res\\drawable-hdpi\\video_default.png"
+        "merged": "D:\\androidproject\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_netvideo_press.png",
+        "source": "D:\\androidproject\\Example\\RadioGroupFragmentDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_netvideo_press.png"
     },
     {
-        "merged": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_netaudio.png",
-        "source": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_netaudio.png"
+        "merged": "D:\\androidproject\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_netaudio.png",
+        "source": "D:\\androidproject\\Example\\RadioGroupFragmentDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_netaudio.png"
     },
     {
-        "merged": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_netaudio_press.png",
-        "source": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_netaudio_press.png"
+        "merged": "D:\\androidproject\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_netaudio_press.png",
+        "source": "D:\\androidproject\\Example\\RadioGroupFragmentDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_netaudio_press.png"
     },
     {
-        "merged": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_video_press.png",
-        "source": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_video_press.png"
+        "merged": "D:\\androidproject\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\center_collect_play.png",
+        "source": "D:\\androidproject\\Example\\RadioGroupFragmentDemo\\app\\src\\main\\res\\drawable-hdpi\\center_collect_play.png"
     },
     {
-        "merged": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\center_collect_play.png",
-        "source": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\app\\src\\main\\res\\drawable-hdpi\\center_collect_play.png"
+        "merged": "D:\\androidproject\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_video_press.png",
+        "source": "D:\\androidproject\\Example\\RadioGroupFragmentDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_video_press.png"
     },
     {
-        "merged": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_audio_press.png",
-        "source": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_audio_press.png"
+        "merged": "D:\\androidproject\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_netvideo.png",
+        "source": "D:\\androidproject\\Example\\RadioGroupFragmentDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_netvideo.png"
     },
     {
-        "merged": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_audio.png",
-        "source": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_audio.png"
+        "merged": "D:\\androidproject\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_audio.png",
+        "source": "D:\\androidproject\\Example\\RadioGroupFragmentDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_audio.png"
     },
     {
-        "merged": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_netvideo_press.png",
-        "source": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_netvideo_press.png"
+        "merged": "D:\\androidproject\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_audio_press.png",
+        "source": "D:\\androidproject\\Example\\RadioGroupFragmentDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_audio_press.png"
     }
 ]

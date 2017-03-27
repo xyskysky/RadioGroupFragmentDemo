@@ -248,7 +248,7 @@ public class NativeJsonPraseActivity extends Activity implements View.OnClickLis
     private void initView()
     {
         TextView tv_title= (TextView) findViewById(R.id.tv_title);
-        tv_title.setText("JSON");
+        tv_title.setText("Android原生JSON解析");
 
         tv_native_orignal = (TextView) findViewById(R.id.tv_native_orignal);
         tv_native_last = (TextView) findViewById(R.id.tv_native_last);

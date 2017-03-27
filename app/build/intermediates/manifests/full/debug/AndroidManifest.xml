@@ -32,6 +32,10 @@
         </activity>
         <activity android:name="com.example.jwn.radiogroupfragment.json.activity.NativeJsonPraseActivity" >
         </activity>
+        <activity android:name="com.example.jwn.radiogroupfragment.json.activity.GsonActivity" >
+        </activity>
+        <activity android:name="com.example.jwn.radiogroupfragment.json.activity.FastJsonActivity" >
+        </activity>
     </application>
 
 </manifest>

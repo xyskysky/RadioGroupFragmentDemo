@@ -16,8 +16,10 @@ import net.tsz.afinal.FinalBitmap;
 import net.tsz.afinal.FinalHttp;
 import net.tsz.afinal.annotation.view.ViewInject;
 import net.tsz.afinal.http.AjaxCallBack;
+import net.tsz.afinal.http.AjaxParams;
 
 import java.io.File;
+import java.io.FileNotFoundException;
 import java.net.URL;
 
 public class AfinalActivity extends FinalActivity
@@ -74,12 +76,59 @@ public class AfinalActivity extends FinalActivity
         }
     }
 
+    //上传文件到服务器
     private void afinalUpdateText()
     {
+        //发送文件要到的服务器
+        String url  = "http://192.168.0.78:8080/FileUpload/FileUploadServlet";
+        //文件上传
+        iv_afinal.setVisibility(View.GONE);
+        FinalHttp finalHttp=new FinalHttp();
+
+
+       AjaxParams params=new AjaxParams();
+        try
+        {
+            params.put("File",new File(getFilesDir()+"/afinalmusic.mp4"));
+        } catch (FileNotFoundException e)
+        {
+            e.printStackTrace();
+        }
+        finalHttp.post(url, params, new AjaxCallBack<Object>()
+        {
+            @Override
+            public void onStart()
+            {
+                tv_afinal_result.setText("文件开始上传");
+                super.onStart();
+            }
+
+            @Override
+            public void onLoading(long count, long current)
+            {
+                pb_progress.setProgress((int) ((current*100)/count));
+                super.onLoading(count, current);
+            }
+
+            @Override
+            public void onSuccess(Object file)
+            {
+                tv_afinal_result.setText("文件上传成功");
+                super.onSuccess(file);
+            }
+
+            @Override
+            public void onFailure(Throwable t, int errorNo, String strMsg)
+            {
+                tv_afinal_result.setText("文件上传失败");
+                super.onFailure(t, errorNo, strMsg);
+            }
+        });
+
 
     }
 
-    //加载图片
+    //加载图片HttpEntity params;
     private void afinalLoadImage()
     {
         iv_afinal.setVisibility(View.VISIBLE);
@@ -115,7 +164,7 @@ public class AfinalActivity extends FinalActivity
             public void onLoading(long count, long current)
             {
                 Log.i(TAG,"onLoading=======count:"+count+"==============current:"+current);
-                pb_progress.setProgress((int) (current/count)*100);
+                pb_progress.setProgress((int) (current*100/count));
                 super.onLoading(count, current);
 
 

@@ -5,32 +5,32 @@
     density="mdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="6869776529764"
-    token="8101726742734041288"
+    timestamp="29612216300141"
+    token="8986660389826603581"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="6439" />
+        duration="697" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="264" />
+        duration="9" />
     <task
         name="verifier"
-        duration="13" />
+        duration="2" />
 
     <artifact
-        location="E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\build\outputs\apk\app-debug.apk"
+        location="D:\androidproject\Example\RadioGroupFragmentDemo\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="6869776529764"
+        timestamp="29612216300141"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\build\outputs\apk\app-debug.apk"
+            location="D:\androidproject\Example\RadioGroupFragmentDemo\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
 

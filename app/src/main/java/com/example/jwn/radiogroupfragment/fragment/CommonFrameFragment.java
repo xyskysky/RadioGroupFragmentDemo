@@ -14,6 +14,8 @@ import com.example.jwn.radiogroupfragment.json.activity.NativeJsonPraseActivity;
 import com.example.jwn.radiogroupfragment.okhttp.activity.OkHttpActivity;
 import com.example.jwn.radiogroupfragment.okhttp.adapter.CommonFrameFragmentAdapter;
 import com.example.jwn.radiogroupfragment.okhttp.base.BaseFragment;
+import com.example.jwn.radiogroupfragment.xutils3.XutilsActivity;
+import org.xutils.common.task.AbsTask;
 
 /**
  * Created by Administrator on 2017-03-23.
@@ -48,6 +50,11 @@ public class CommonFrameFragment extends BaseFragment
             else  if ("FastJson".equals(data))
             {
                 Intent intent=new Intent(mContext, FastJsonActivity.class);
+                startActivity(intent);
+            }
+            else if ("xUtils3".equals(data))
+            {
+                Intent intent=new Intent(mContext, XutilsActivity.class);
                 startActivity(intent);
             }
             else if ("AFinal".equals(data))

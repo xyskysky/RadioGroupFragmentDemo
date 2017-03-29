@@ -41,9 +41,9 @@ public class DemoFragment extends Fragment
       return  x.view().inject(this,inflater,container);
     }
 
-    //使用xutils3j进行注解
+    //使用xutils3j进行注解   此处方法的修辞符号 为private
     @Event(value = R.id.btn_fragment)
-    public void onClick(View view)
+    private void onClick(View view)
     {
         ToastUtils.showToast(mContext,"我是按钮，我在fragment中初始化，并且被点击了");
     }

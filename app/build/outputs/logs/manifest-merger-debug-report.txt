@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:2:1-42:12
+ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:2:1-46:12
 	package
 		ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:3:11-55
 		INJECTED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml
@@ -22,7 +22,7 @@ ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\
 	android:name
 		ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:6:22-78
 application
-ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:8:5-40:19
+ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:8:5-44:19
 MERGED from [RadioGroupFragmentDemo:xutils:unspecified] E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\build\intermediates\exploded-aar\RadioGroupFragmentDemo\xutils\unspecified\AndroidManifest.xml:12:5-20
 MERGED from [com.android.support:appcompat-v7:24.2.1] E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-v4:24.2.1] E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:25:5-20
@@ -95,6 +95,14 @@ activity#com.example.jwn.radiogroupfragment.xutils3.annotation.FragmentXutilsAct
 ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:38:9-39:20
 	android:name
 		ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:38:19-76
+activity#com.example.jwn.radiogroupfragment.xutils3.net.XutilsNetActivity
+ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:40:9-41:20
+	android:name
+		ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:40:19-64
+activity#com.example.jwn.radiogroupfragment.xutils3.XutilsImageListActivity
+ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:42:9-43:20
+	android:name
+		ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:42:19-66
 uses-sdk
 INJECTED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [RadioGroupFragmentDemo:okhttputils:unspecified] E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\build\intermediates\exploded-aar\RadioGroupFragmentDemo\okhttputils\unspecified\AndroidManifest.xml:7:5-9:41

@@ -16,7 +16,17 @@ public class DataBean {
         return trailers;
     }
 
+    @Override
+    public String toString()
+    {
+        return "DataBean{" +
+                "trailers=" + trailers +
+                '}';
+    }
+
     public static class ItemData {
+
+
         private int id;
         private String movieName;
         private String coverImg;
@@ -115,6 +125,23 @@ public class DataBean {
 
         public List<String> getType() {
             return type;
+        }
+        @Override
+        public String toString()
+        {
+            return "ItemData{" +
+                    "id=" + id +
+                    ", movieName='" + movieName + '\'' +
+                    ", coverImg='" + coverImg + '\'' +
+                    ", movieId=" + movieId +
+                    ", url='" + url + '\'' +
+                    ", hightUrl='" + hightUrl + '\'' +
+                    ", videoTitle='" + videoTitle + '\'' +
+                    ", videoLength=" + videoLength +
+                    ", rating=" + rating +
+                    ", summary='" + summary + '\'' +
+                    ", type=" + type +
+                    '}';
         }
     }
 }

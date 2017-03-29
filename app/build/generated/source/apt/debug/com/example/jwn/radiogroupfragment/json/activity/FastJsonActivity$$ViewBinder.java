@@ -15,8 +15,8 @@ public class FastJsonActivity$$ViewBinder<T extends FastJsonActivity> implements
   public Unbinder bind(final Finder finder, final T target, Object source) {
     InnerUnbinder unbinder = createUnbinder(target);
     View view;
-    view = finder.findRequiredView(source, 2131427486, "field 'tvTitle'");
-    target.tvTitle = finder.castView(view, 2131427486, "field 'tvTitle'");
+    view = finder.findRequiredView(source, 2131427495, "field 'tvTitle'");
+    target.tvTitle = finder.castView(view, 2131427495, "field 'tvTitle'");
     view = finder.findRequiredView(source, 2131427422, "field 'btFastjsonTojavaobject' and method 'OnClick'");
     target.btFastjsonTojavaobject = finder.castView(view, 2131427422, "field 'btFastjsonTojavaobject'");
     unbinder.view2131427422 = view;

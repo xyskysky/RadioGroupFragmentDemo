@@ -37,6 +37,10 @@
         </activity>
         <activity android:name=".xutils3.annotation.FragmentXutilsActivity">
         </activity>
+        <activity android:name=".xutils3.net.XutilsNetActivity">
+        </activity>
+        <activity android:name=".xutils3.XutilsImageListActivity">
+        </activity>
     </application>
 
 </manifest>

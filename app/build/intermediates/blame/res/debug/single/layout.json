@@ -8,12 +8,12 @@
         "source": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
-    },
-    {
         "merged": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_okhttp.xml",
         "source": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\app\\src\\main\\res\\layout\\activity_okhttp.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
         "merged": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
@@ -24,16 +24,16 @@
         "source": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\app\\src\\main\\res\\layout\\activity_launcher.xml"
     },
     {
-        "merged": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
-        "source": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+        "merged": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_search_view.xml"
     },
     {
         "merged": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
         "source": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_simple.xml"
     },
     {
-        "merged": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_search_view.xml"
+        "merged": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
     },
     {
         "merged": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
@@ -132,6 +132,10 @@
         "source": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_lines.xml"
     },
     {
+        "merged": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_xutils_image_list.xml",
+        "source": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\app\\src\\main\\res\\layout\\activity_xutils_image_list.xml"
+    },
+    {
         "merged": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fragment_xutils.xml",
         "source": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\app\\src\\main\\res\\layout\\activity_fragment_xutils.xml"
     },
@@ -198,6 +202,10 @@
     {
         "merged": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
         "source": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_xutils_net.xml",
+        "source": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\app\\src\\main\\res\\layout\\activity_xutils_net.xml"
     },
     {
         "merged": "E:\\AndroidStudioProjects\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",

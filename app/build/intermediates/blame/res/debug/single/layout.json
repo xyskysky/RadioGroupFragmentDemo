@@ -44,6 +44,10 @@
         "source": "D:\\androidproject\\Example\\RadioGroupFragmentDemo\\app\\src\\main\\res\\layout\\fragment_common_frame.xml"
     },
     {
+        "merged": "D:\\androidproject\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_xutils.xml",
+        "source": "D:\\androidproject\\Example\\RadioGroupFragmentDemo\\app\\src\\main\\res\\layout\\activity_xutils.xml"
+    },
+    {
         "merged": "D:\\androidproject\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
         "source": "D:\\androidproject\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
@@ -120,6 +124,10 @@
         "source": "D:\\androidproject\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
+        "merged": "D:\\androidproject\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_demo.xml",
+        "source": "D:\\androidproject\\Example\\RadioGroupFragmentDemo\\app\\src\\main\\res\\layout\\fragment_demo.xml"
+    },
+    {
         "merged": "D:\\androidproject\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\titlebar.xml",
         "source": "D:\\androidproject\\Example\\RadioGroupFragmentDemo\\app\\src\\main\\res\\layout\\titlebar.xml"
     },
@@ -160,12 +168,12 @@
         "source": "D:\\androidproject\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
-        "merged": "D:\\androidproject\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
-        "source": "D:\\androidproject\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_big_media.xml"
-    },
-    {
         "merged": "D:\\androidproject\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_afinal.xml",
         "source": "D:\\androidproject\\Example\\RadioGroupFragmentDemo\\app\\src\\main\\res\\layout\\activity_afinal.xml"
+    },
+    {
+        "merged": "D:\\androidproject\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\androidproject\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_big_media.xml"
     },
     {
         "merged": "D:\\androidproject\\Example\\RadioGroupFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",

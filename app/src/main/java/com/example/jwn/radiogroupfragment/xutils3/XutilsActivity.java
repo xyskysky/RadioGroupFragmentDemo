@@ -3,7 +3,6 @@ package com.example.jwn.radiogroupfragment.xutils3;
 import android.app.Activity;
 import android.content.Intent;
 import android.graphics.drawable.Drawable;
-import android.graphics.drawable.RippleDrawable;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;

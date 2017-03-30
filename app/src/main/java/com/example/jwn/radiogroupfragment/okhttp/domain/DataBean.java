@@ -35,7 +35,7 @@ public class DataBean {
         private String hightUrl;
         private String videoTitle;
         private int videoLength;
-        private int rating;
+        private double rating;
         private String summary;
         private List<String> type;
 
@@ -71,7 +71,7 @@ public class DataBean {
             this.videoLength = videoLength;
         }
 
-        public void setRating(int rating) {
+        public void setRating(double rating) {
             this.rating = rating;
         }
 
@@ -115,7 +115,7 @@ public class DataBean {
             return videoLength;
         }
 
-        public int getRating() {
+        public double getRating() {
             return rating;
         }
 

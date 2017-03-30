@@ -14,6 +14,7 @@ import com.example.jwn.radiogroupfragment.json.activity.NativeJsonPraseActivity;
 import com.example.jwn.radiogroupfragment.okhttp.activity.OkHttpActivity;
 import com.example.jwn.radiogroupfragment.okhttp.adapter.CommonFrameFragmentAdapter;
 import com.example.jwn.radiogroupfragment.okhttp.base.BaseFragment;
+import com.example.jwn.radiogroupfragment.volley.VolleyActivity;
 import com.example.jwn.radiogroupfragment.xutils3.XutilsActivity;
 import org.xutils.common.task.AbsTask;
 
@@ -62,6 +63,11 @@ public class CommonFrameFragment extends BaseFragment
                 Intent intent=new Intent(mContext, AfinalActivity.class);
                 startActivity(intent);
             }
+            else if ("Volley".equals(data))
+            {
+                Intent intent=new Intent(mContext, VolleyActivity.class);
+                startActivity(intent);
+            }
         }
     };
     private CommonFrameFragmentAdapter adapter;
@@ -80,7 +86,7 @@ public class CommonFrameFragment extends BaseFragment
     protected void initData()
     {
         super.initData();
-        datas = new String[]{"OKHttp","nativeJsonPrase", "Gson","FastJson","xUtils3","AFinal","Retrofit2","Fresco","Glide","greenDao","RxJava","volley","picasso","evenBus","jcvideoplayer","pulltorefresh","Expandablelistview","UniversalVideoView","....."};
+        datas = new String[]{"OKHttp","nativeJsonPrase", "Gson","FastJson","xUtils3","AFinal","Volley","Retrofit2","Fresco","Glide","greenDao","RxJava","picasso","evenBus","jcvideoplayer","pulltorefresh","Expandablelistview","UniversalVideoView","....."};
         adapter = new CommonFrameFragmentAdapter(mContext,datas);
         lv_data.setAdapter(adapter);
 

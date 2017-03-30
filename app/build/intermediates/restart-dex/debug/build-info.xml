@@ -1,37 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86"
+    abi="armeabi-v7a,armeabi"
     api-level="16"
-    density="mdpi"
+    density="hdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="10298745237573"
+    timestamp="9697329719243"
     token="8101726742734041288"
-    verifier="METHOD_ANNOTATION_CHANGE" >
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="4916" />
+        duration="2750" />
     <task
         name="instant-run-dex"
-        duration="0" />
+        duration="23" />
     <task
         name="instant-run-transform"
-        duration="631" />
+        duration="230" />
     <task
         name="verifier"
-        duration="109" />
+        duration="20" />
 
     <artifact
-        location="E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\build\outputs\apk\app-debug.apk"
-        type="MAIN" />
+        location="E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
 
     <build
-        timestamp="10298745237573"
-        verifier="METHOD_ANNOTATION_CHANGE" >
+        timestamp="9592313174267"
+        verifier="METHOD_ADDED" >
         <artifact
             location="E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="9697329719243"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
     </build>
 
 </instant-run>

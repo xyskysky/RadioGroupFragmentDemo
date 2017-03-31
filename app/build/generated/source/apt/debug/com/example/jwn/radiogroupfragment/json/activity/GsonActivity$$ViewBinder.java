@@ -15,8 +15,8 @@ public class GsonActivity$$ViewBinder<T extends GsonActivity> implements ViewBin
   public Unbinder bind(final Finder finder, final T target, Object source) {
     InnerUnbinder unbinder = createUnbinder(target);
     View view;
-    view = finder.findRequiredView(source, 2131427495, "field 'mTvTitle'");
-    target.mTvTitle = finder.castView(view, 2131427495, "field 'mTvTitle'");
+    view = finder.findRequiredView(source, 2131427505, "field 'mTvTitle'");
+    target.mTvTitle = finder.castView(view, 2131427505, "field 'mTvTitle'");
     view = finder.findRequiredView(source, 2131427431, "field 'mBtGsonTojavaobject' and method 'onClick'");
     target.mBtGsonTojavaobject = finder.castView(view, 2131427431, "field 'mBtGsonTojavaobject'");
     unbinder.view2131427431 = view;

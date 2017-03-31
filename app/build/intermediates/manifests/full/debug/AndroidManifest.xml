@@ -43,6 +43,12 @@
         </activity>
         <activity android:name="com.example.jwn.radiogroupfragment.xutils3.annotation.FragmentXutilsActivity" >
         </activity>
+        <activity android:name="com.example.jwn.radiogroupfragment.xutils3.net.XutilsNetActivity" >
+        </activity>
+        <activity android:name="com.example.jwn.radiogroupfragment.xutils3.XutilsImageListActivity" >
+        </activity>
+        <activity android:name="com.example.jwn.radiogroupfragment.volley.VolleyActivity" >
+        </activity>
     </application>
 
 </manifest>

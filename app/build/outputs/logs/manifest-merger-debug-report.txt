@@ -1,119 +1,131 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\androidproject\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:2:1-42:12
+ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:2:1-48:12
 	package
-		ADDED from D:\androidproject\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:3:11-55
-		INJECTED from D:\androidproject\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml
-		INJECTED from D:\androidproject\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:3:11-55
+		INJECTED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\androidproject\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml
-		INJECTED from D:\androidproject\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\androidproject\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from D:\androidproject\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml
-		INJECTED from D:\androidproject\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from D:\androidproject\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:5:5-66
+ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:5:5-66
 	android:name
-		ADDED from D:\androidproject\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:5:22-64
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from D:\androidproject\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:6:5-80
+ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:6:5-80
 	android:name
-		ADDED from D:\androidproject\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:6:22-78
+		ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:6:22-78
 application
-ADDED from D:\androidproject\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:8:5-40:19
-MERGED from [RadioGroupFragmentDemo:xutils:unspecified] D:\androidproject\Example\RadioGroupFragmentDemo\app\build\intermediates\exploded-aar\RadioGroupFragmentDemo\xutils\unspecified\AndroidManifest.xml:12:5-20
-MERGED from [com.android.support:appcompat-v7:24.2.1] D:\androidproject\Example\RadioGroupFragmentDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:24.2.1] D:\androidproject\Example\RadioGroupFragmentDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:24.2.1] D:\androidproject\Example\RadioGroupFragmentDemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:24.2.1] D:\androidproject\Example\RadioGroupFragmentDemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:24.2.1] D:\androidproject\Example\RadioGroupFragmentDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:24.2.1] D:\androidproject\Example\RadioGroupFragmentDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:24.2.1] D:\androidproject\Example\RadioGroupFragmentDemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-vector-drawable:24.2.1] D:\androidproject\Example\RadioGroupFragmentDemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:animated-vector-drawable:24.2.1] D:\androidproject\Example\RadioGroupFragmentDemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:22:5-20
+ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:8:5-46:19
+MERGED from [RadioGroupFragmentDemo:xutils:unspecified] E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\build\intermediates\exploded-aar\RadioGroupFragmentDemo\xutils\unspecified\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from D:\androidproject\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:12:13-45
+		ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:12:13-45
 	android:supportsRtl
-		ADDED from D:\androidproject\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:13:13-39
+		ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:13:13-39
 	android:allowBackup
-		ADDED from D:\androidproject\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:10:13-39
+		ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:10:13-39
 	android:icon
-		ADDED from D:\androidproject\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:11:13-47
+		ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:11:13-47
 	android:theme
-		ADDED from D:\androidproject\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:14:13-44
+		ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:14:13-44
 	android:name
-		ADDED from D:\androidproject\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:9:13-42
+		ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:9:13-42
 activity#com.example.jwn.radiogroupfragment.LauncherActivity
-ADDED from D:\androidproject\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:15:9-21:20
+ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:15:9-21:20
 	android:name
-		ADDED from D:\androidproject\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:15:19-51
+		ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:15:19-51
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from D:\androidproject\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:16:13-20:29
+ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
-ADDED from D:\androidproject\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:17:17-68
+ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:17:17-68
 	android:name
-		ADDED from D:\androidproject\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:17:25-66
+		ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\androidproject\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:19:17-76
+ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:19:17-76
 	android:name
-		ADDED from D:\androidproject\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:19:27-74
+		ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:19:27-74
 activity#com.example.jwn.radiogroupfragment.MainActivity
-ADDED from D:\androidproject\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:22:9-23:20
+ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:22:9-23:20
 	android:name
-		ADDED from D:\androidproject\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:22:19-47
+		ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:22:19-47
 activity#com.example.jwn.radiogroupfragment.okhttp.activity.OkHttpActivity
-ADDED from D:\androidproject\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:24:9-25:20
+ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:24:9-25:20
 	android:name
-		ADDED from D:\androidproject\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:24:19-65
+		ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:24:19-65
 activity#com.example.jwn.radiogroupfragment.okhttp.activity.OKHttpListActivity
-ADDED from D:\androidproject\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:26:9-27:20
+ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:26:9-27:20
 	android:name
-		ADDED from D:\androidproject\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:26:19-69
+		ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:26:19-69
 activity#com.example.jwn.radiogroupfragment.json.activity.NativeJsonPraseActivity
-ADDED from D:\androidproject\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:28:9-29:20
+ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:28:9-29:20
 	android:name
-		ADDED from D:\androidproject\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:28:19-72
+		ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:28:19-72
 activity#com.example.jwn.radiogroupfragment.json.activity.GsonActivity
-ADDED from D:\androidproject\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:30:9-31:20
+ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:30:9-31:20
 	android:name
-		ADDED from D:\androidproject\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:30:19-61
+		ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:30:19-61
 activity#com.example.jwn.radiogroupfragment.json.activity.FastJsonActivity
-ADDED from D:\androidproject\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:32:9-33:20
+ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:32:9-33:20
 	android:name
-		ADDED from D:\androidproject\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:32:19-65
+		ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:32:19-65
 activity#com.example.jwn.radiogroupfragment.afinal.AfinalActivity
-ADDED from D:\androidproject\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:34:9-35:20
+ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:34:9-35:20
 	android:name
-		ADDED from D:\androidproject\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:34:19-56
+		ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:34:19-56
 activity#com.example.jwn.radiogroupfragment.xutils3.XutilsActivity
-ADDED from D:\androidproject\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:36:9-37:20
+ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:36:9-37:20
 	android:name
-		ADDED from D:\androidproject\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:36:19-57
+		ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:36:19-57
 activity#com.example.jwn.radiogroupfragment.xutils3.annotation.FragmentXutilsActivity
-ADDED from D:\androidproject\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:38:9-39:20
+ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:38:9-39:20
 	android:name
-		ADDED from D:\androidproject\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:38:19-76
+		ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:38:19-76
+activity#com.example.jwn.radiogroupfragment.xutils3.net.XutilsNetActivity
+ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:40:9-41:20
+	android:name
+		ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:40:19-64
+activity#com.example.jwn.radiogroupfragment.xutils3.XutilsImageListActivity
+ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:42:9-43:20
+	android:name
+		ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:42:19-66
+activity#com.example.jwn.radiogroupfragment.volley.VolleyActivity
+ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:44:9-45:20
+	android:name
+		ADDED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml:44:19-56
 uses-sdk
-INJECTED from D:\androidproject\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [RadioGroupFragmentDemo:okhttputils:unspecified] D:\androidproject\Example\RadioGroupFragmentDemo\app\build\intermediates\exploded-aar\RadioGroupFragmentDemo\okhttputils\unspecified\AndroidManifest.xml:7:5-9:41
-MERGED from [RadioGroupFragmentDemo:xutils:unspecified] D:\androidproject\Example\RadioGroupFragmentDemo\app\build\intermediates\exploded-aar\RadioGroupFragmentDemo\xutils\unspecified\AndroidManifest.xml:8:5-10:41
-MERGED from [com.android.support:appcompat-v7:24.2.1] D:\androidproject\Example\RadioGroupFragmentDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:24.2.1] D:\androidproject\Example\RadioGroupFragmentDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-compat:24.2.1] D:\androidproject\Example\RadioGroupFragmentDemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-media-compat:24.2.1] D:\androidproject\Example\RadioGroupFragmentDemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:24.2.1] D:\androidproject\Example\RadioGroupFragmentDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:24.2.1] D:\androidproject\Example\RadioGroupFragmentDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-fragment:24.2.1] D:\androidproject\Example\RadioGroupFragmentDemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-vector-drawable:24.2.1] D:\androidproject\Example\RadioGroupFragmentDemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:animated-vector-drawable:24.2.1] D:\androidproject\Example\RadioGroupFragmentDemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:20:5-44
-MERGED from [com.jakewharton:butterknife:8.0.1] D:\androidproject\Example\RadioGroupFragmentDemo\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.0.1\AndroidManifest.xml:5:5-43
+INJECTED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [RadioGroupFragmentDemo:okhttputils:unspecified] E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\build\intermediates\exploded-aar\RadioGroupFragmentDemo\okhttputils\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [RadioGroupFragmentDemo:xutils:unspecified] E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\build\intermediates\exploded-aar\RadioGroupFragmentDemo\xutils\unspecified\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:24.2.1] E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:24.2.1] E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:24.2.1] E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:24.2.1] E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-vector-drawable:24.2.1] E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife:8.0.1] E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.0.1\AndroidManifest.xml:5:5-43
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:24.2.1] D:\androidproject\Example\RadioGroupFragmentDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:24.2.1] E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from D:\androidproject\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml
-		INJECTED from D:\androidproject\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\androidproject\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml
-		INJECTED from D:\androidproject\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\src\main\AndroidManifest.xml

@@ -1,37 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86"
+    abi="armeabi-v7a,armeabi"
     api-level="16"
-    density="mdpi"
+    density="hdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="11655907858134"
-    token="8986660389826603581"
-    verifier="FULL_BUILD_REQUESTED" >
+    timestamp="9697329719243"
+    token="8101726742734041288"
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="2753" />
+        duration="2750" />
     <task
         name="instant-run-dex"
-        duration="0" />
+        duration="23" />
     <task
         name="instant-run-transform"
-        duration="2565" />
+        duration="230" />
     <task
         name="verifier"
-        duration="1366" />
+        duration="20" />
 
     <artifact
-        location="D:\androidproject\Example\RadioGroupFragmentDemo\app\build\outputs\apk\app-debug.apk"
-        type="MAIN" />
+        location="E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
 
     <build
-        timestamp="11655907858134"
-        verifier="FULL_BUILD_REQUESTED" >
+        timestamp="9592313174267"
+        verifier="METHOD_ADDED" >
         <artifact
-            location="D:\androidproject\Example\RadioGroupFragmentDemo\app\build\outputs\apk\app-debug.apk"
+            location="E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="9697329719243"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="E:\AndroidStudioProjects\Example\RadioGroupFragmentDemo\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
     </build>
 
 </instant-run>

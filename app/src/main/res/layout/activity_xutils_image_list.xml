@@ -1,20 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout
+<RelativeLayout
         xmlns:android="http://schemas.android.com/apk/res/android"
         xmlns:tools="http://schemas.android.com/tools"
         android:id="@+id/activity_xutils_image_list"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:orientation="vertical"
         tools:context="com.example.jwn.radiogroupfragment.xutils3.XutilsImageListActivity">
-    <include layout="@layout/titlebar"/>
-    <Button
-            android:text="加载列表数据"
-            android:id="@+id/btn_loaddata"
-            android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <include android:id="@+id/title_bar" layout="@layout/titlebar"/>
     <ListView
+            android:layout_below="@id/title_bar"
             android:id="@+id/lv_xutils_listview"
             android:layout_width="match_parent"
             android:layout_height="match_parent">
     </ListView>
-</LinearLayout>
+    <ProgressBar
+            android:id="@+id/pb_progress"
+            android:layout_centerInParent="true"
+            android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    <TextView
+            android:id="@+id/tv_nodata"
+            android:layout_centerInParent="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+</RelativeLayout>

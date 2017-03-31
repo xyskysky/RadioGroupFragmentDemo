@@ -36,4 +36,6 @@ dependencies {
     testCompile 'junit:junit:4.12'
     apt 'com.jakewharton:butterknife-compiler:8.0.1'
     compile files('libs/volley.jar')
+    compile files('libs/eventbus-3.0.0.jar')
+    compile files('libs/universal-image-loader-1.9.5.jar')
 }

@@ -8,6 +8,8 @@ import android.widget.ListView;
 
 import com.example.jwn.radiogroupfragment.R;
 import com.example.jwn.radiogroupfragment.afinal.AfinalActivity;
+import com.example.jwn.radiogroupfragment.eventbus.EventBusActivity;
+import com.example.jwn.radiogroupfragment.imageloader.ImageloaderActivity;
 import com.example.jwn.radiogroupfragment.json.activity.FastJsonActivity;
 import com.example.jwn.radiogroupfragment.json.activity.GsonActivity;
 import com.example.jwn.radiogroupfragment.json.activity.NativeJsonPraseActivity;
@@ -68,6 +70,16 @@ public class CommonFrameFragment extends BaseFragment
                 Intent intent=new Intent(mContext, VolleyActivity.class);
                 startActivity(intent);
             }
+            else  if ("EvenBus".equals(data))
+            {
+                Intent intent=new Intent(mContext, EventBusActivity.class);
+                startActivity(intent);
+            }
+            else if ("ImageLoader".equals(data))
+            {
+                Intent intent=new Intent(mContext, ImageloaderActivity.class);
+                startActivity(intent);
+            }
         }
     };
     private CommonFrameFragmentAdapter adapter;
@@ -86,7 +98,7 @@ public class CommonFrameFragment extends BaseFragment
     protected void initData()
     {
         super.initData();
-        datas = new String[]{"OKHttp","nativeJsonPrase", "Gson","FastJson","xUtils3","AFinal","Volley","Retrofit2","Fresco","Glide","greenDao","RxJava","picasso","evenBus","jcvideoplayer","pulltorefresh","Expandablelistview","UniversalVideoView","....."};
+        datas = new String[]{"OKHttp","FastJson","xUtils3","AFinal","Volley","EvenBus","ImageLoader","nativeJsonPrase", "Gson","Retrofit2","Fresco","Glide","greenDao","RxJava","picasso","evenBus","jcvideoplayer","pulltorefresh","Expandablelistview","UniversalVideoView","....."};
         adapter = new CommonFrameFragmentAdapter(mContext,datas);
         lv_data.setAdapter(adapter);
 

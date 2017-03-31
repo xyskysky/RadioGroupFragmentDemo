@@ -2,6 +2,7 @@ package com.example.jwn.radiogroupfragment.volley;
 
 import android.app.Activity;
 import android.content.Context;
+import android.content.Intent;
 import android.graphics.Bitmap;
 import android.os.Bundle;
 import android.util.Log;
@@ -39,6 +40,8 @@ public class VolleyActivity extends Activity
     Button mBtVolleyImageloader;
     @BindView(R.id.bt_volley_networkimageview)
     Button mBtVolleyNetworkimageview;
+    @BindView(R.id.bt_volley_listimage)
+    Button mBtVilleyListImage;
     @BindView(R.id.iv_volley_result)
     ImageView mIvVolleyResult;
     @BindView(R.id.iv_volley_networkimagview)
@@ -62,7 +65,7 @@ public class VolleyActivity extends Activity
         mTvTitle.setText("Volley解析");
     }
     @OnClick({R.id.bt_volley_get,R.id.bt_volley_getjson,R.id.bt_volley_imageloader,R.id.bt_volley_imagerequest
-    ,R.id.bt_volley_networkimageview,R.id.bt_volley_post})
+    ,R.id.bt_volley_networkimageview,R.id.bt_volley_post,R.id.bt_volley_listimage})
     void onClick(View view)
     {
         switch (view.getId())
@@ -84,6 +87,10 @@ public class VolleyActivity extends Activity
                 break;
             case R.id.bt_volley_networkimageview:
                 volleyNetworkImageView();
+                break;
+            case R.id.bt_volley_listimage:
+                Intent intent=new Intent(mContext,VolleyListImageActivity.class);
+                startActivity(intent);
                 break;
         }
     }

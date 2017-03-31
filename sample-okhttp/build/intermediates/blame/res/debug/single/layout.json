@@ -136,12 +136,12 @@
         "source": "D:\\androidproject\\Example\\RadioGroupFragmentDemo\\sample-okhttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_lines.xml"
     },
     {
-        "merged": "D:\\androidproject\\Example\\RadioGroupFragmentDemo\\sample-okhttp\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
-        "source": "D:\\androidproject\\Example\\RadioGroupFragmentDemo\\sample-okhttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_popup_menu_item_layout.xml"
-    },
-    {
         "merged": "D:\\androidproject\\Example\\RadioGroupFragmentDemo\\sample-okhttp\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
         "source": "D:\\androidproject\\Example\\RadioGroupFragmentDemo\\sample-okhttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\androidproject\\Example\\RadioGroupFragmentDemo\\sample-okhttp\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\androidproject\\Example\\RadioGroupFragmentDemo\\sample-okhttp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
         "merged": "D:\\androidproject\\Example\\RadioGroupFragmentDemo\\sample-okhttp\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",

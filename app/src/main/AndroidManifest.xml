@@ -6,12 +6,12 @@
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
 
     <application
-            android:name=".MyApplication"
-            android:allowBackup="true"
-            android:icon="@mipmap/ic_launcher"
-            android:label="@string/app_name"
-            android:supportsRtl="true"
-            android:theme="@style/AppTheme">
+        android:name=".MyApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
         <activity android:name=".LauncherActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
@@ -42,6 +42,20 @@
         <activity android:name=".xutils3.XutilsImageListActivity">
         </activity>
         <activity android:name=".volley.VolleyActivity">
+        </activity>
+        <activity android:name=".volley.VolleyListImageActivity">
+        </activity>
+        <activity android:name=".eventbus.EventBusActivity">
+        </activity>
+        <activity android:name=".eventbus.EventBusSecondActivity">
+        </activity>
+        <activity android:name=".imageloader.ImageloaderListviewActivity">
+        </activity>
+        <activity android:name=".imageloader.ImageloaderActivity">
+        </activity>
+        <activity android:name=".imageloader.ImageloaderGridviewActivity">
+        </activity>
+        <activity android:name=".imageloader.ImageloaderViewpagerActivity">
         </activity>
     </application>
 

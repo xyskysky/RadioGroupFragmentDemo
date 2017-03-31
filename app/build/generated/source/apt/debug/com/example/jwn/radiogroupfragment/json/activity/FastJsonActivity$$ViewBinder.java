@@ -15,48 +15,48 @@ public class FastJsonActivity$$ViewBinder<T extends FastJsonActivity> implements
   public Unbinder bind(final Finder finder, final T target, Object source) {
     InnerUnbinder unbinder = createUnbinder(target);
     View view;
-    view = finder.findRequiredView(source, 2131427505, "field 'tvTitle'");
-    target.tvTitle = finder.castView(view, 2131427505, "field 'tvTitle'");
-    view = finder.findRequiredView(source, 2131427422, "field 'btFastjsonTojavaobject' and method 'OnClick'");
-    target.btFastjsonTojavaobject = finder.castView(view, 2131427422, "field 'btFastjsonTojavaobject'");
-    unbinder.view2131427422 = view;
+    view = finder.findRequiredView(source, 2131427529, "field 'tvTitle'");
+    target.tvTitle = finder.castView(view, 2131427529, "field 'tvTitle'");
+    view = finder.findRequiredView(source, 2131427430, "field 'btFastjsonTojavaobject' and method 'OnClick'");
+    target.btFastjsonTojavaobject = finder.castView(view, 2131427430, "field 'btFastjsonTojavaobject'");
+    unbinder.view2131427430 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
         target.OnClick(p0);
       }
     });
-    view = finder.findRequiredView(source, 2131427423, "field 'btFastjsonTojavalist' and method 'OnClick'");
-    target.btFastjsonTojavalist = finder.castView(view, 2131427423, "field 'btFastjsonTojavalist'");
-    unbinder.view2131427423 = view;
+    view = finder.findRequiredView(source, 2131427431, "field 'btFastjsonTojavalist' and method 'OnClick'");
+    target.btFastjsonTojavalist = finder.castView(view, 2131427431, "field 'btFastjsonTojavalist'");
+    unbinder.view2131427431 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
         target.OnClick(p0);
       }
     });
-    view = finder.findRequiredView(source, 2131427424, "field 'btFastjsonTojsonObject' and method 'OnClick'");
-    target.btFastjsonTojsonObject = finder.castView(view, 2131427424, "field 'btFastjsonTojsonObject'");
-    unbinder.view2131427424 = view;
+    view = finder.findRequiredView(source, 2131427432, "field 'btFastjsonTojsonObject' and method 'OnClick'");
+    target.btFastjsonTojsonObject = finder.castView(view, 2131427432, "field 'btFastjsonTojsonObject'");
+    unbinder.view2131427432 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
         target.OnClick(p0);
       }
     });
-    view = finder.findRequiredView(source, 2131427425, "field 'btFastjsonTojsonArray' and method 'OnClick'");
-    target.btFastjsonTojsonArray = finder.castView(view, 2131427425, "field 'btFastjsonTojsonArray'");
-    unbinder.view2131427425 = view;
+    view = finder.findRequiredView(source, 2131427433, "field 'btFastjsonTojsonArray' and method 'OnClick'");
+    target.btFastjsonTojsonArray = finder.castView(view, 2131427433, "field 'btFastjsonTojsonArray'");
+    unbinder.view2131427433 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
         target.OnClick(p0);
       }
     });
-    view = finder.findRequiredView(source, 2131427426, "field 'tvNativeOrignal'");
-    target.tvNativeOrignal = finder.castView(view, 2131427426, "field 'tvNativeOrignal'");
-    view = finder.findRequiredView(source, 2131427427, "field 'tvNativeLast'");
-    target.tvNativeLast = finder.castView(view, 2131427427, "field 'tvNativeLast'");
+    view = finder.findRequiredView(source, 2131427434, "field 'tvNativeOrignal'");
+    target.tvNativeOrignal = finder.castView(view, 2131427434, "field 'tvNativeOrignal'");
+    view = finder.findRequiredView(source, 2131427435, "field 'tvNativeLast'");
+    target.tvNativeLast = finder.castView(view, 2131427435, "field 'tvNativeLast'");
     return unbinder;
   }
 
@@ -67,13 +67,13 @@ public class FastJsonActivity$$ViewBinder<T extends FastJsonActivity> implements
   protected static class InnerUnbinder<T extends FastJsonActivity> implements Unbinder {
     private T target;
 
-    View view2131427422;
+    View view2131427430;
 
-    View view2131427423;
+    View view2131427431;
 
-    View view2131427424;
+    View view2131427432;
 
-    View view2131427425;
+    View view2131427433;
 
     protected InnerUnbinder(T target) {
       this.target = target;
@@ -88,13 +88,13 @@ public class FastJsonActivity$$ViewBinder<T extends FastJsonActivity> implements
 
     protected void unbind(T target) {
       target.tvTitle = null;
-      view2131427422.setOnClickListener(null);
+      view2131427430.setOnClickListener(null);
       target.btFastjsonTojavaobject = null;
-      view2131427423.setOnClickListener(null);
+      view2131427431.setOnClickListener(null);
       target.btFastjsonTojavalist = null;
-      view2131427424.setOnClickListener(null);
+      view2131427432.setOnClickListener(null);
       target.btFastjsonTojsonObject = null;
-      view2131427425.setOnClickListener(null);
+      view2131427433.setOnClickListener(null);
       target.btFastjsonTojsonArray = null;
       target.tvNativeOrignal = null;
       target.tvNativeLast = null;

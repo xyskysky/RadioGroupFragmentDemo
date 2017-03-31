@@ -49,6 +49,20 @@
         </activity>
         <activity android:name="com.example.jwn.radiogroupfragment.volley.VolleyActivity" >
         </activity>
+        <activity android:name="com.example.jwn.radiogroupfragment.volley.VolleyListImageActivity" >
+        </activity>
+        <activity android:name="com.example.jwn.radiogroupfragment.eventbus.EventBusActivity" >
+        </activity>
+        <activity android:name="com.example.jwn.radiogroupfragment.eventbus.EventBusSecondActivity" >
+        </activity>
+        <activity android:name="com.example.jwn.radiogroupfragment.imageloader.ImageloaderListviewActivity" >
+        </activity>
+        <activity android:name="com.example.jwn.radiogroupfragment.imageloader.ImageloaderActivity" >
+        </activity>
+        <activity android:name="com.example.jwn.radiogroupfragment.imageloader.ImageloaderGridviewActivity" >
+        </activity>
+        <activity android:name="com.example.jwn.radiogroupfragment.imageloader.ImageloaderViewpagerActivity" >
+        </activity>
     </application>
 
 </manifest>
